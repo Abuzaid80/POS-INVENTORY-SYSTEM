@@ -1,0 +1,933 @@
+[15-Apr-2025 11:02:33 UTC] Database connection successful
+[15-Apr-2025 11:02:33 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[15-Apr-2025 11:02:33 UTC] Fetching recent sales
+[15-Apr-2025 11:02:33 UTC] Fetched 0 sales records
+[15-Apr-2025 11:02:33 UTC] No sales records found in the database
+[15-Apr-2025 11:02:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.quantity' in 'where clause' in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php:282
+Stack trace:
+#0 /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php(282): PDOStatement->execute()
+#1 {main}
+  thrown in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php on line 282
+[15-Apr-2025 11:25:24 UTC] Database connection successful
+[15-Apr-2025 11:25:24 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[15-Apr-2025 11:25:24 UTC] Fetching recent sales
+[15-Apr-2025 11:25:24 UTC] Fetched 0 sales records
+[15-Apr-2025 11:25:24 UTC] No sales records found in the database
+[15-Apr-2025 11:25:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.status' in 'where clause' in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php:282
+Stack trace:
+#0 /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php(282): PDOStatement->execute()
+#1 {main}
+  thrown in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php on line 282
+[15-Apr-2025 11:26:35 UTC] Database connection successful
+[15-Apr-2025 11:26:35 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[15-Apr-2025 11:26:35 UTC] Fetching recent sales
+[15-Apr-2025 11:26:35 UTC] Fetched 0 sales records
+[15-Apr-2025 11:26:35 UTC] No sales records found in the database
+[15-Apr-2025 11:26:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause' in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php:287
+Stack trace:
+#0 /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php(287): PDOStatement->execute()
+#1 {main}
+  thrown in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php on line 287
+[15-Apr-2025 11:36:13 UTC] Database connection successful
+[15-Apr-2025 11:36:13 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[15-Apr-2025 11:36:13 UTC] Fetching recent sales
+[15-Apr-2025 11:36:13 UTC] Fetched 0 sales records
+[15-Apr-2025 11:36:13 UTC] No sales records found in the database
+[15-Apr-2025 11:36:13 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php on line 617
+[15-Apr-2025 11:36:13 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php on line 643
+[15-Apr-2025 11:36:13 UTC] PHP Warning:  Undefined variable $categories in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php on line 784
+[15-Apr-2025 11:36:13 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php on line 784
+[15-Apr-2025 11:38:51 UTC] Database connection successful
+[15-Apr-2025 11:38:51 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[15-Apr-2025 11:38:51 UTC] Fetching recent sales
+[15-Apr-2025 11:38:51 UTC] Fetched 0 sales records
+[15-Apr-2025 11:38:51 UTC] No sales records found in the database
+[15-Apr-2025 11:38:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function formatNumber() in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php:617
+Stack trace:
+#0 {main}
+  thrown in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php on line 617
+[15-Apr-2025 11:40:16 UTC] Database connection successful
+[15-Apr-2025 11:40:16 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[15-Apr-2025 11:40:16 UTC] Fetching recent sales
+[15-Apr-2025 11:40:16 UTC] Fetched 0 sales records
+[15-Apr-2025 11:40:16 UTC] No sales records found in the database
+[15-Apr-2025 11:40:16 UTC] PHP Warning:  Undefined variable $categories in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php on line 789
+[15-Apr-2025 11:40:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php on line 789
+[15-Apr-2025 11:41:39 UTC] Database connection successful
+[15-Apr-2025 11:41:39 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[15-Apr-2025 11:41:39 UTC] Fetching recent sales
+[15-Apr-2025 11:41:39 UTC] Fetched 0 sales records
+[15-Apr-2025 11:41:39 UTC] No sales records found in the database
+[15-Apr-2025 11:41:39 UTC] PHP Warning:  Undefined variable $categories in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php on line 870
+[15-Apr-2025 11:41:39 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php on line 870
+[15-Apr-2025 11:45:50 UTC] Database connection successful
+[15-Apr-2025 11:45:50 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[15-Apr-2025 11:45:50 UTC] Fetching recent sales
+[15-Apr-2025 11:45:50 UTC] Fetched 0 sales records
+[15-Apr-2025 11:45:50 UTC] No sales records found in the database
+[15-Apr-2025 11:45:50 UTC] PHP Warning:  Undefined variable $categories in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php on line 870
+[15-Apr-2025 11:45:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php on line 870
+[15-Apr-2025 11:46:01 UTC] Database connection successful
+[15-Apr-2025 11:46:01 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[15-Apr-2025 11:46:01 UTC] Fetching recent sales
+[15-Apr-2025 11:46:01 UTC] Fetched 0 sales records
+[15-Apr-2025 11:46:01 UTC] No sales records found in the database
+[15-Apr-2025 11:46:11 UTC] Database connection successful
+[15-Apr-2025 11:46:11 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[15-Apr-2025 11:46:11 UTC] Fetching recent sales
+[15-Apr-2025 11:46:11 UTC] Fetched 0 sales records
+[15-Apr-2025 11:46:11 UTC] No sales records found in the database
+[15-Apr-2025 16:52:13 UTC] Database connection successful
+[15-Apr-2025 16:52:13 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[15-Apr-2025 16:52:13 UTC] Fetching recent sales
+[15-Apr-2025 16:52:13 UTC] Fetched 0 sales records
+[15-Apr-2025 16:52:13 UTC] No sales records found in the database
+[15-Apr-2025 16:52:53 UTC] Database connection successful
+[15-Apr-2025 16:52:53 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[15-Apr-2025 16:52:53 UTC] Fetching recent sales
+[15-Apr-2025 16:52:53 UTC] Fetched 0 sales records
+[15-Apr-2025 16:52:53 UTC] No sales records found in the database
+[17-Apr-2025 06:51:02 UTC] Database connection successful
+[17-Apr-2025 06:51:02 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[17-Apr-2025 06:51:02 UTC] Fetching recent sales
+[17-Apr-2025 06:51:02 UTC] Fetched 0 sales records
+[17-Apr-2025 06:51:02 UTC] No sales records found in the database
+[17-Apr-2025 06:57:05 UTC] Database connection successful
+[17-Apr-2025 06:57:05 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[17-Apr-2025 06:57:05 UTC] Fetching recent sales
+[17-Apr-2025 06:57:05 UTC] Fetched 0 sales records
+[17-Apr-2025 06:57:05 UTC] No sales records found in the database
+[17-Apr-2025 07:07:40 UTC] Database connection successful
+[17-Apr-2025 07:07:40 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[17-Apr-2025 07:07:40 UTC] Fetching recent sales
+[17-Apr-2025 07:07:40 UTC] Fetched 0 sales records
+[17-Apr-2025 07:07:40 UTC] No sales records found in the database
+[17-Apr-2025 07:39:49 UTC] Database connection successful
+[17-Apr-2025 07:39:49 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[17-Apr-2025 07:39:49 UTC] Fetching recent sales
+[17-Apr-2025 07:39:49 UTC] Fetched 0 sales records
+[17-Apr-2025 07:39:49 UTC] No sales records found in the database
+[17-Apr-2025 09:01:27 UTC] Database connection successful
+[17-Apr-2025 09:01:27 UTC] Database Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pos_inventory_system.doctors' doesn't exist
+[17-Apr-2025 09:01:27 UTC] PHP Warning:  Undefined variable $total_doctors in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 199
+[17-Apr-2025 09:01:27 UTC] PHP Warning:  Undefined variable $active_doctors in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 212
+[17-Apr-2025 09:01:27 UTC] PHP Warning:  Undefined variable $total_specialties in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 225
+[17-Apr-2025 09:01:27 UTC] PHP Warning:  Undefined variable $inactive_doctors in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 238
+[17-Apr-2025 09:01:27 UTC] PHP Warning:  Undefined variable $doctors in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 266
+[17-Apr-2025 09:01:27 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 266
+[17-Apr-2025 09:03:29 UTC] Database connection successful
+[17-Apr-2025 09:03:29 UTC] Database Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pos_inventory_system.doctors' doesn't exist
+[17-Apr-2025 09:03:29 UTC] PHP Warning:  Undefined variable $total_doctors in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 199
+[17-Apr-2025 09:03:29 UTC] PHP Warning:  Undefined variable $active_doctors in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 212
+[17-Apr-2025 09:03:29 UTC] PHP Warning:  Undefined variable $total_specialties in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 225
+[17-Apr-2025 09:03:29 UTC] PHP Warning:  Undefined variable $inactive_doctors in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 238
+[17-Apr-2025 09:03:29 UTC] PHP Warning:  Undefined variable $doctors in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 266
+[17-Apr-2025 09:03:29 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 266
+[17-Apr-2025 09:03:35 UTC] Database connection successful
+[17-Apr-2025 09:03:35 UTC] Database Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pos_inventory_system.doctors' doesn't exist
+[17-Apr-2025 09:03:35 UTC] PHP Warning:  Undefined variable $total_doctors in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 199
+[17-Apr-2025 09:03:35 UTC] PHP Warning:  Undefined variable $active_doctors in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 212
+[17-Apr-2025 09:03:35 UTC] PHP Warning:  Undefined variable $total_specialties in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 225
+[17-Apr-2025 09:03:35 UTC] PHP Warning:  Undefined variable $inactive_doctors in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 238
+[17-Apr-2025 09:03:35 UTC] PHP Warning:  Undefined variable $doctors in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 266
+[17-Apr-2025 09:03:35 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 266
+[17-Apr-2025 09:03:41 UTC] Database connection successful
+[17-Apr-2025 09:03:41 UTC] Database Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pos_inventory_system.doctors' doesn't exist
+[17-Apr-2025 09:03:41 UTC] PHP Warning:  Undefined variable $total_doctors in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 199
+[17-Apr-2025 09:03:41 UTC] PHP Warning:  Undefined variable $active_doctors in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 212
+[17-Apr-2025 09:03:41 UTC] PHP Warning:  Undefined variable $total_specialties in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 225
+[17-Apr-2025 09:03:41 UTC] PHP Warning:  Undefined variable $inactive_doctors in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 238
+[17-Apr-2025 09:03:41 UTC] PHP Warning:  Undefined variable $doctors in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 266
+[17-Apr-2025 09:03:41 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 266
+[17-Apr-2025 09:06:08 UTC] Database connection successful
+[17-Apr-2025 09:06:08 UTC] Database Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pos_inventory_system.doctors' doesn't exist
+[17-Apr-2025 09:06:08 UTC] PHP Warning:  Undefined variable $total_doctors in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 199
+[17-Apr-2025 09:06:08 UTC] PHP Warning:  Undefined variable $active_doctors in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 212
+[17-Apr-2025 09:06:08 UTC] PHP Warning:  Undefined variable $total_specialties in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 225
+[17-Apr-2025 09:06:08 UTC] PHP Warning:  Undefined variable $inactive_doctors in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 238
+[17-Apr-2025 09:06:08 UTC] PHP Warning:  Undefined variable $doctors in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 266
+[17-Apr-2025 09:06:08 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 266
+[17-Apr-2025 09:08:16 UTC] Database connection successful
+[17-Apr-2025 09:08:16 UTC] Database Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pos_inventory_system.doctors' doesn't exist
+[17-Apr-2025 09:08:16 UTC] PHP Warning:  Undefined variable $total_doctors in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 199
+[17-Apr-2025 09:08:16 UTC] PHP Warning:  Undefined variable $active_doctors in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 212
+[17-Apr-2025 09:08:16 UTC] PHP Warning:  Undefined variable $total_specialties in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 225
+[17-Apr-2025 09:08:16 UTC] PHP Warning:  Undefined variable $inactive_doctors in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 238
+[17-Apr-2025 09:08:16 UTC] PHP Warning:  Undefined variable $doctors in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 266
+[17-Apr-2025 09:08:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 266
+[17-Apr-2025 09:08:35 UTC] Database connection successful
+[17-Apr-2025 09:08:35 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[17-Apr-2025 09:08:35 UTC] Fetching recent sales
+[17-Apr-2025 09:08:35 UTC] Fetched 0 sales records
+[17-Apr-2025 09:08:35 UTC] No sales records found in the database
+[17-Apr-2025 09:11:58 UTC] Database connection successful
+[17-Apr-2025 09:11:58 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[17-Apr-2025 09:11:58 UTC] Fetching recent sales
+[17-Apr-2025 09:11:58 UTC] Fetched 0 sales records
+[17-Apr-2025 09:11:58 UTC] No sales records found in the database
+[17-Apr-2025 09:12:15 UTC] Database connection successful
+[17-Apr-2025 09:12:15 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[17-Apr-2025 09:12:15 UTC] Fetching recent sales
+[17-Apr-2025 09:12:15 UTC] Fetched 0 sales records
+[17-Apr-2025 09:12:15 UTC] No sales records found in the database
+[17-Apr-2025 09:12:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pos_inventory_system.doctors' doesn't exist in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php:298
+Stack trace:
+#0 /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php(298): PDOStatement->execute()
+#1 {main}
+  thrown in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/doctors.php on line 298
+[17-Apr-2025 11:05:01 UTC] Database connection successful
+[17-Apr-2025 11:05:01 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[17-Apr-2025 11:05:01 UTC] Fetching recent sales
+[17-Apr-2025 11:05:01 UTC] Fetched 0 sales records
+[17-Apr-2025 11:05:01 UTC] No sales records found in the database
+[17-Apr-2025 11:14:15 UTC] Database connection successful
+[17-Apr-2025 11:14:49 UTC] Database connection successful
+[17-Apr-2025 14:34:08 UTC] Database connection successful
+[17-Apr-2025 14:34:08 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[17-Apr-2025 14:34:08 UTC] Fetching recent sales
+[17-Apr-2025 14:34:08 UTC] Fetched 0 sales records
+[17-Apr-2025 14:34:08 UTC] No sales records found in the database
+[17-Apr-2025 14:34:23 UTC] Database connection successful
+[17-Apr-2025 14:34:23 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[17-Apr-2025 14:34:23 UTC] Fetching recent sales
+[17-Apr-2025 14:34:23 UTC] Fetched 0 sales records
+[17-Apr-2025 14:34:23 UTC] No sales records found in the database
+[17-Apr-2025 14:42:08 UTC] Database connection successful
+[17-Apr-2025 14:42:08 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[17-Apr-2025 14:42:08 UTC] Fetching recent sales
+[17-Apr-2025 14:42:08 UTC] Fetched 0 sales records
+[17-Apr-2025 14:42:08 UTC] No sales records found in the database
+[17-Apr-2025 14:42:51 UTC] Database connection successful
+[17-Apr-2025 14:42:51 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[17-Apr-2025 14:42:51 UTC] Fetching recent sales
+[17-Apr-2025 14:42:51 UTC] Fetched 0 sales records
+[17-Apr-2025 14:42:51 UTC] No sales records found in the database
+[17-Apr-2025 14:42:53 UTC] Database connection successful
+[17-Apr-2025 14:42:53 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[17-Apr-2025 14:42:53 UTC] Fetching recent sales
+[17-Apr-2025 14:42:53 UTC] Fetched 0 sales records
+[17-Apr-2025 14:42:53 UTC] No sales records found in the database
+[17-Apr-2025 14:43:04 UTC] Database connection successful
+[17-Apr-2025 14:43:04 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[17-Apr-2025 14:43:04 UTC] Fetching recent sales
+[17-Apr-2025 14:43:04 UTC] Fetched 0 sales records
+[17-Apr-2025 14:43:04 UTC] No sales records found in the database
+[17-Apr-2025 14:43:12 UTC] Database connection successful
+[17-Apr-2025 14:43:12 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[17-Apr-2025 14:43:12 UTC] Fetching recent sales
+[17-Apr-2025 14:43:12 UTC] Fetched 0 sales records
+[17-Apr-2025 14:43:12 UTC] No sales records found in the database
+[17-Apr-2025 16:23:14 UTC] Database connection successful
+[17-Apr-2025 16:23:14 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[17-Apr-2025 16:23:14 UTC] Fetching recent sales
+[17-Apr-2025 16:23:14 UTC] Fetched 0 sales records
+[17-Apr-2025 16:23:14 UTC] No sales records found in the database
+[17-Apr-2025 16:40:41 UTC] Database connection successful
+[17-Apr-2025 16:40:41 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[17-Apr-2025 16:40:41 UTC] Fetching recent sales
+[17-Apr-2025 16:40:41 UTC] Fetched 0 sales records
+[17-Apr-2025 16:40:41 UTC] No sales records found in the database
+[22-Apr-2025 10:04:26 UTC] Database connection successful
+[22-Apr-2025 10:04:26 UTC] Successfully added notes column to sales table
+[22-Apr-2025 10:04:26 UTC] Fetching recent sales
+[22-Apr-2025 10:04:26 UTC] Fetched 0 sales records
+[22-Apr-2025 10:04:26 UTC] No sales records found in the database
+[23-Apr-2025 07:43:37 UTC] Database connection successful
+[23-Apr-2025 07:43:37 UTC] Successfully added notes column to sales table
+[23-Apr-2025 07:43:37 UTC] Fetching recent sales
+[23-Apr-2025 07:43:37 UTC] Fetched 0 sales records
+[23-Apr-2025 07:43:37 UTC] No sales records found in the database
+[23-Apr-2025 07:43:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.stock_quantity' in 'where clause' in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php:286
+Stack trace:
+#0 /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php(286): PDOStatement->execute()
+#1 {main}
+  thrown in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php on line 286
+[23-Apr-2025 07:45:19 UTC] Database connection successful
+[23-Apr-2025 07:45:19 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[23-Apr-2025 07:45:19 UTC] Fetching recent sales
+[23-Apr-2025 07:45:19 UTC] Fetched 0 sales records
+[23-Apr-2025 07:45:19 UTC] No sales records found in the database
+[23-Apr-2025 07:45:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'products.stock_quantity' in 'where clause' in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php:286
+Stack trace:
+#0 /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php(286): PDOStatement->execute()
+#1 {main}
+  thrown in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php on line 286
+[23-Apr-2025 07:45:20 UTC] Database connection successful
+[23-Apr-2025 07:45:20 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[23-Apr-2025 07:45:20 UTC] Fetching recent sales
+[23-Apr-2025 07:45:20 UTC] Fetched 0 sales records
+[23-Apr-2025 07:45:20 UTC] No sales records found in the database
+[23-Apr-2025 07:45:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'products.stock_quantity' in 'where clause' in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php:286
+Stack trace:
+#0 /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php(286): PDOStatement->execute()
+#1 {main}
+  thrown in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php on line 286
+[23-Apr-2025 07:45:27 UTC] Database connection successful
+[23-Apr-2025 07:45:27 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[23-Apr-2025 07:45:27 UTC] Fetching recent sales
+[23-Apr-2025 07:45:27 UTC] Fetched 0 sales records
+[23-Apr-2025 07:45:27 UTC] No sales records found in the database
+[23-Apr-2025 07:45:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'products.stock_quantity' in 'where clause' in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php:286
+Stack trace:
+#0 /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php(286): PDOStatement->execute()
+#1 {main}
+  thrown in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php on line 286
+[23-Apr-2025 07:46:55 UTC] Database connection successful
+[23-Apr-2025 07:46:55 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[23-Apr-2025 07:46:55 UTC] Fetching recent sales
+[23-Apr-2025 07:46:55 UTC] Fetched 0 sales records
+[23-Apr-2025 07:46:55 UTC] No sales records found in the database
+[23-Apr-2025 10:17:35 UTC] Database connection successful
+[23-Apr-2025 10:17:35 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[23-Apr-2025 10:17:35 UTC] Fetching recent sales
+[23-Apr-2025 10:17:35 UTC] Fetched 0 sales records
+[23-Apr-2025 10:17:35 UTC] No sales records found in the database
+[23-Apr-2025 10:18:21 UTC] Database connection successful
+[23-Apr-2025 10:18:21 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[23-Apr-2025 10:18:21 UTC] Fetching recent sales
+[23-Apr-2025 10:18:21 UTC] Fetched 0 sales records
+[23-Apr-2025 10:18:21 UTC] No sales records found in the database
+[24-Apr-2025 06:04:11 UTC] Database connection successful
+[24-Apr-2025 06:04:11 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[24-Apr-2025 06:04:11 UTC] Fetching recent sales
+[24-Apr-2025 06:04:11 UTC] Fetched 0 sales records
+[24-Apr-2025 06:04:11 UTC] No sales records found in the database
+[24-Apr-2025 06:09:49 UTC] Database connection successful
+[24-Apr-2025 06:09:49 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[24-Apr-2025 06:09:49 UTC] Fetching recent sales
+[24-Apr-2025 06:09:49 UTC] Fetched 0 sales records
+[24-Apr-2025 06:09:49 UTC] No sales records found in the database
+[24-Apr-2025 06:20:49 UTC] Database connection successful
+[24-Apr-2025 06:20:49 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[24-Apr-2025 06:20:49 UTC] Fetching recent sales
+[24-Apr-2025 06:20:49 UTC] Fetched 0 sales records
+[24-Apr-2025 06:20:49 UTC] No sales records found in the database
+[24-Apr-2025 23:27:29 UTC] Database connection successful
+[24-Apr-2025 23:27:29 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[24-Apr-2025 23:27:29 UTC] Fetching recent sales
+[24-Apr-2025 23:27:29 UTC] Fetched 0 sales records
+[24-Apr-2025 23:27:29 UTC] No sales records found in the database
+[24-Apr-2025 23:29:52 UTC] Database connection successful
+[24-Apr-2025 23:29:52 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[24-Apr-2025 23:29:52 UTC] Fetching recent sales
+[24-Apr-2025 23:29:52 UTC] Fetched 0 sales records
+[24-Apr-2025 23:29:52 UTC] No sales records found in the database
+[24-Apr-2025 23:30:26 UTC] Database connection successful
+[24-Apr-2025 23:30:26 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[24-Apr-2025 23:30:26 UTC] POST request received: Array
+(
+    [customer_id] => 1
+    [sale_date] => 2025-04-24T23:29
+    [products] => Array
+        (
+            [0] => 5
+            [1] => 4
+        )
+
+    [quantities] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [prices] => Array
+        (
+            [0] => 12.99
+            [1] => 49.99
+        )
+
+    [payment_method] => cash
+    [total_amount] => 62.98
+    [notes] => 
+    [action] => add_sale
+)
+
+[24-Apr-2025 23:30:26 UTC] Processing add_sale action
+[24-Apr-2025 23:30:26 UTC] Add Sale Data: Array
+(
+    [customer_id] => 1
+    [sale_date] => 2025-04-24T23:29
+    [products] => Array
+        (
+            [0] => 5
+            [1] => 4
+        )
+
+    [quantities] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [prices] => Array
+        (
+            [0] => 12.99
+            [1] => 49.99
+        )
+
+    [payment_method] => cash
+    [total_amount] => 62.98
+    [notes] => 
+    [action] => add_sale
+)
+
+[24-Apr-2025 23:30:26 UTC] Validating product ID: 5
+[24-Apr-2025 23:30:26 UTC] Database Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock_quantity' in 'field list'
+[24-Apr-2025 23:30:38 UTC] Database connection successful
+[24-Apr-2025 23:30:38 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[24-Apr-2025 23:30:38 UTC] POST request received: Array
+(
+    [customer_id] => 1
+    [sale_date] => 2025-04-24T23:29
+    [products] => Array
+        (
+            [0] => 5
+            [1] => 4
+        )
+
+    [quantities] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [prices] => Array
+        (
+            [0] => 12.99
+            [1] => 49.99
+        )
+
+    [payment_method] => cash
+    [total_amount] => 62.98
+    [notes] => 
+    [action] => add_sale
+)
+
+[24-Apr-2025 23:30:38 UTC] Processing add_sale action
+[24-Apr-2025 23:30:38 UTC] Add Sale Data: Array
+(
+    [customer_id] => 1
+    [sale_date] => 2025-04-24T23:29
+    [products] => Array
+        (
+            [0] => 5
+            [1] => 4
+        )
+
+    [quantities] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [prices] => Array
+        (
+            [0] => 12.99
+            [1] => 49.99
+        )
+
+    [payment_method] => cash
+    [total_amount] => 62.98
+    [notes] => 
+    [action] => add_sale
+)
+
+[24-Apr-2025 23:30:38 UTC] Validating product ID: 5
+[24-Apr-2025 23:30:38 UTC] Database Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock_quantity' in 'field list'
+[24-Apr-2025 23:30:46 UTC] Database connection successful
+[24-Apr-2025 23:30:46 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[24-Apr-2025 23:30:46 UTC] POST request received: Array
+(
+    [customer_id] => 1
+    [sale_date] => 2025-04-24T23:29
+    [products] => Array
+        (
+            [0] => 5
+            [1] => 4
+        )
+
+    [quantities] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [prices] => Array
+        (
+            [0] => 12.99
+            [1] => 49.99
+        )
+
+    [payment_method] => cash
+    [total_amount] => 62.98
+    [notes] => 
+    [action] => add_sale
+)
+
+[24-Apr-2025 23:30:46 UTC] Processing add_sale action
+[24-Apr-2025 23:30:46 UTC] Add Sale Data: Array
+(
+    [customer_id] => 1
+    [sale_date] => 2025-04-24T23:29
+    [products] => Array
+        (
+            [0] => 5
+            [1] => 4
+        )
+
+    [quantities] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [prices] => Array
+        (
+            [0] => 12.99
+            [1] => 49.99
+        )
+
+    [payment_method] => cash
+    [total_amount] => 62.98
+    [notes] => 
+    [action] => add_sale
+)
+
+[24-Apr-2025 23:30:46 UTC] Validating product ID: 5
+[24-Apr-2025 23:30:46 UTC] Database Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock_quantity' in 'field list'
+[24-Apr-2025 23:30:56 UTC] Database connection successful
+[24-Apr-2025 23:30:56 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[24-Apr-2025 23:30:56 UTC] POST request received: Array
+(
+    [customer_id] => 1
+    [sale_date] => 2025-04-24T23:29
+    [products] => Array
+        (
+            [0] => 5
+            [1] => 4
+        )
+
+    [quantities] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [prices] => Array
+        (
+            [0] => 12.99
+            [1] => 49.99
+        )
+
+    [payment_method] => cash
+    [total_amount] => 62.98
+    [notes] => 
+    [action] => add_sale
+)
+
+[24-Apr-2025 23:30:56 UTC] Processing add_sale action
+[24-Apr-2025 23:30:56 UTC] Add Sale Data: Array
+(
+    [customer_id] => 1
+    [sale_date] => 2025-04-24T23:29
+    [products] => Array
+        (
+            [0] => 5
+            [1] => 4
+        )
+
+    [quantities] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [prices] => Array
+        (
+            [0] => 12.99
+            [1] => 49.99
+        )
+
+    [payment_method] => cash
+    [total_amount] => 62.98
+    [notes] => 
+    [action] => add_sale
+)
+
+[24-Apr-2025 23:30:56 UTC] Validating product ID: 5
+[24-Apr-2025 23:30:56 UTC] Database Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock_quantity' in 'field list'
+[24-Apr-2025 23:31:03 UTC] Database connection successful
+[24-Apr-2025 23:31:03 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[24-Apr-2025 23:31:03 UTC] POST request received: Array
+(
+    [customer_id] => 1
+    [sale_date] => 2025-04-24T23:29
+    [products] => Array
+        (
+            [0] => 5
+            [1] => 4
+        )
+
+    [quantities] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [prices] => Array
+        (
+            [0] => 12.99
+            [1] => 49.99
+        )
+
+    [payment_method] => cash
+    [total_amount] => 62.98
+    [notes] => 
+    [action] => add_sale
+)
+
+[24-Apr-2025 23:31:03 UTC] Processing add_sale action
+[24-Apr-2025 23:31:03 UTC] Add Sale Data: Array
+(
+    [customer_id] => 1
+    [sale_date] => 2025-04-24T23:29
+    [products] => Array
+        (
+            [0] => 5
+            [1] => 4
+        )
+
+    [quantities] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [prices] => Array
+        (
+            [0] => 12.99
+            [1] => 49.99
+        )
+
+    [payment_method] => cash
+    [total_amount] => 62.98
+    [notes] => 
+    [action] => add_sale
+)
+
+[24-Apr-2025 23:31:03 UTC] Validating product ID: 5
+[24-Apr-2025 23:31:03 UTC] Database Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock_quantity' in 'field list'
+[24-Apr-2025 23:34:28 UTC] Database connection successful
+[24-Apr-2025 23:34:28 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[24-Apr-2025 23:34:28 UTC] POST request received: Array
+(
+    [customer_id] => 1
+    [sale_date] => 2025-04-24T23:29
+    [products] => Array
+        (
+            [0] => 5
+            [1] => 4
+        )
+
+    [quantities] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [prices] => Array
+        (
+            [0] => 12.99
+            [1] => 49.99
+        )
+
+    [payment_method] => cash
+    [total_amount] => 62.98
+    [notes] => 
+    [action] => add_sale
+)
+
+[24-Apr-2025 23:34:28 UTC] Processing add_sale action
+[24-Apr-2025 23:34:28 UTC] Add Sale Data: Array
+(
+    [customer_id] => 1
+    [sale_date] => 2025-04-24T23:29
+    [products] => Array
+        (
+            [0] => 5
+            [1] => 4
+        )
+
+    [quantities] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [prices] => Array
+        (
+            [0] => 12.99
+            [1] => 49.99
+        )
+
+    [payment_method] => cash
+    [total_amount] => 62.98
+    [notes] => 
+    [action] => add_sale
+)
+
+[24-Apr-2025 23:34:28 UTC] Validating product ID: 5
+[24-Apr-2025 23:34:28 UTC] Database Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock_quantity' in 'field list'
+[24-Apr-2025 23:34:36 UTC] Database connection successful
+[24-Apr-2025 23:34:36 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[24-Apr-2025 23:34:36 UTC] POST request received: Array
+(
+    [customer_id] => 1
+    [sale_date] => 2025-04-24T23:29
+    [products] => Array
+        (
+            [0] => 5
+            [1] => 4
+        )
+
+    [quantities] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [prices] => Array
+        (
+            [0] => 12.99
+            [1] => 49.99
+        )
+
+    [payment_method] => cash
+    [total_amount] => 62.98
+    [notes] => 
+    [action] => add_sale
+)
+
+[24-Apr-2025 23:34:36 UTC] Processing add_sale action
+[24-Apr-2025 23:34:36 UTC] Add Sale Data: Array
+(
+    [customer_id] => 1
+    [sale_date] => 2025-04-24T23:29
+    [products] => Array
+        (
+            [0] => 5
+            [1] => 4
+        )
+
+    [quantities] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [prices] => Array
+        (
+            [0] => 12.99
+            [1] => 49.99
+        )
+
+    [payment_method] => cash
+    [total_amount] => 62.98
+    [notes] => 
+    [action] => add_sale
+)
+
+[24-Apr-2025 23:34:36 UTC] Validating product ID: 5
+[24-Apr-2025 23:34:36 UTC] Database Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'stock_quantity' in 'field list'
+[24-Apr-2025 23:38:02 UTC] Database connection successful
+[24-Apr-2025 23:38:02 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[24-Apr-2025 23:38:02 UTC] Fetching recent sales
+[24-Apr-2025 23:38:02 UTC] Fetched 0 sales records
+[24-Apr-2025 23:38:02 UTC] No sales records found in the database
+[24-Apr-2025 23:38:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'products.stock_quantity' in 'where clause' in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php:285
+Stack trace:
+#0 /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php(285): PDO->prepare()
+#1 {main}
+  thrown in /var/www/vhosts/apollo-sp.com/httpdocs/pos-inventory-system/sales.php on line 285
+[24-Apr-2025 23:39:25 UTC] Database connection successful
+[24-Apr-2025 23:39:25 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[24-Apr-2025 23:39:25 UTC] Fetching recent sales
+[24-Apr-2025 23:39:25 UTC] Fetched 0 sales records
+[24-Apr-2025 23:39:25 UTC] No sales records found in the database
+[24-Apr-2025 23:39:43 UTC] Database connection successful
+[24-Apr-2025 23:39:43 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[24-Apr-2025 23:39:43 UTC] POST request received: Array
+(
+    [customer_id] => 1
+    [sale_date] => 2025-04-24T23:39
+    [products] => Array
+        (
+            [0] => 5
+            [1] => 4
+        )
+
+    [quantities] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [prices] => Array
+        (
+            [0] => 12.99
+            [1] => 49.99
+        )
+
+    [payment_method] => cash
+    [total_amount] => 62.98
+    [notes] => 
+    [action] => add_sale
+)
+
+[24-Apr-2025 23:39:43 UTC] Processing add_sale action
+[24-Apr-2025 23:39:43 UTC] Add Sale Data: Array
+(
+    [customer_id] => 1
+    [sale_date] => 2025-04-24T23:39
+    [products] => Array
+        (
+            [0] => 5
+            [1] => 4
+        )
+
+    [quantities] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [prices] => Array
+        (
+            [0] => 12.99
+            [1] => 49.99
+        )
+
+    [payment_method] => cash
+    [total_amount] => 62.98
+    [notes] => 
+    [action] => add_sale
+)
+
+[24-Apr-2025 23:39:43 UTC] Validating product ID: 5
+[24-Apr-2025 23:39:43 UTC] Validating product ID: 4
+[24-Apr-2025 23:39:43 UTC] Transaction started
+[24-Apr-2025 23:39:43 UTC] SQL Query: INSERT INTO sales (customer_id, total_amount, payment_method, notes) 
+                                 VALUES (:customer_id, :total_amount, :payment_method, :notes)
+[24-Apr-2025 23:39:43 UTC] Parameters: Array
+(
+    [customer_id] => 1
+    [total_amount] => 62.98
+    [payment_method] => cash
+    [notes] => 
+)
+
+[24-Apr-2025 23:39:43 UTC] Sale Insert Result: Success
+[24-Apr-2025 23:39:43 UTC] New Sale ID: 1
+[24-Apr-2025 23:39:43 UTC] Adding Sale Item - Product ID: 5, Quantity: 1, Price: 12.99
+[24-Apr-2025 23:39:43 UTC] Updated stock for product ID: 5
+[24-Apr-2025 23:39:43 UTC] Adding Sale Item - Product ID: 4, Quantity: 1, Price: 49.99
+[24-Apr-2025 23:39:43 UTC] Updated stock for product ID: 4
+[24-Apr-2025 23:39:43 UTC] Transaction committed successfully
+[24-Apr-2025 23:39:45 UTC] Database connection successful
+[24-Apr-2025 23:39:45 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[24-Apr-2025 23:39:45 UTC] Fetching recent sales
+[24-Apr-2025 23:39:45 UTC] Fetched 1 sales records
+[24-Apr-2025 23:40:28 UTC] Database connection successful
+[24-Apr-2025 23:40:28 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[24-Apr-2025 23:40:28 UTC] Fetching recent sales
+[24-Apr-2025 23:40:28 UTC] Fetched 1 sales records
+[24-Apr-2025 23:41:47 UTC] Database connection successful
+[24-Apr-2025 23:41:47 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[24-Apr-2025 23:41:47 UTC] Fetching recent sales
+[24-Apr-2025 23:41:47 UTC] Fetched 1 sales records
+[24-Apr-2025 23:42:00 UTC] Database connection successful
+[24-Apr-2025 23:42:00 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[24-Apr-2025 23:42:00 UTC] POST request received: Array
+(
+    [customer_id] => 2
+    [sale_date] => 2025-04-24T23:41
+    [products] => Array
+        (
+            [0] => 4
+        )
+
+    [quantities] => Array
+        (
+            [0] => 1
+        )
+
+    [prices] => Array
+        (
+            [0] => 49.99
+        )
+
+    [payment_method] => cash
+    [total_amount] => 49.99
+    [notes] => 
+    [action] => add_sale
+)
+
+[24-Apr-2025 23:42:00 UTC] Processing add_sale action
+[24-Apr-2025 23:42:00 UTC] Add Sale Data: Array
+(
+    [customer_id] => 2
+    [sale_date] => 2025-04-24T23:41
+    [products] => Array
+        (
+            [0] => 4
+        )
+
+    [quantities] => Array
+        (
+            [0] => 1
+        )
+
+    [prices] => Array
+        (
+            [0] => 49.99
+        )
+
+    [payment_method] => cash
+    [total_amount] => 49.99
+    [notes] => 
+    [action] => add_sale
+)
+
+[24-Apr-2025 23:42:00 UTC] Validating product ID: 4
+[24-Apr-2025 23:42:00 UTC] Transaction started
+[24-Apr-2025 23:42:00 UTC] SQL Query: INSERT INTO sales (customer_id, total_amount, payment_method, notes) 
+                                 VALUES (:customer_id, :total_amount, :payment_method, :notes)
+[24-Apr-2025 23:42:00 UTC] Parameters: Array
+(
+    [customer_id] => 2
+    [total_amount] => 49.99
+    [payment_method] => cash
+    [notes] => 
+)
+
+[24-Apr-2025 23:42:00 UTC] Sale Insert Result: Success
+[24-Apr-2025 23:42:00 UTC] New Sale ID: 2
+[24-Apr-2025 23:42:00 UTC] Adding Sale Item - Product ID: 4, Quantity: 1, Price: 49.99
+[24-Apr-2025 23:42:00 UTC] Updated stock for product ID: 4
+[24-Apr-2025 23:42:00 UTC] Transaction committed successfully
+[24-Apr-2025 23:42:01 UTC] Database connection successful
+[24-Apr-2025 23:42:01 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[24-Apr-2025 23:42:01 UTC] Fetching recent sales
+[24-Apr-2025 23:42:01 UTC] Fetched 2 sales records
+[24-Apr-2025 23:47:43 UTC] Database connection successful
+[24-Apr-2025 23:47:43 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[24-Apr-2025 23:47:43 UTC] Fetching recent sales
+[24-Apr-2025 23:47:43 UTC] Fetched 2 sales records
+[16-May-2025 16:00:17 UTC] Database connection successful
+[16-May-2025 16:00:17 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[16-May-2025 16:00:17 UTC] Fetching recent sales
+[16-May-2025 16:00:17 UTC] Fetched 2 sales records
+[16-May-2025 16:00:20 UTC] Database connection successful
+[16-May-2025 16:00:20 UTC] Notes column might already exist: SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'notes'
+[16-May-2025 16:00:20 UTC] Fetching recent sales
+[16-May-2025 16:00:20 UTC] Fetched 2 sales records

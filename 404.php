@@ -1,0 +1,31 @@
+<?php
+$page_title = "404 - Page Not Found";
+$page_content = '
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-xl-6 col-lg-6 col-md-9">
+            <div class="card o-hidden border-0 shadow-lg my-5">
+                <div class="card-body p-0">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="p-5">
+                                <div class="text-center">
+                                    <h1 class="h4 text-gray-900 mb-4">404 - Page Not Found</h1>
+                                    <p class="mb-4">The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.</p>
+                                    <a href="index.php" class="btn btn-primary">
+                                        <i class="fas fa-home"></i> Back to Home
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>';
+
+$page_scripts = '';
+
+require_once 'layout.php';
+?> 
