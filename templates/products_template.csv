@@ -1,0 +1,3 @@
+name,description,price,quantity,category_id,low_stock_threshold
+Sample Product,This is a sample product description,99.99,100,1,10
+Another Product,Another product with description,199.99,50,2,5

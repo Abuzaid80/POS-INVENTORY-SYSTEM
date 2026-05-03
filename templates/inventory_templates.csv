@@ -1,0 +1,6 @@
+product_id,quantity_change,type,reference_type,reference_id,notes
+1,10,in,purchase,1,Initial stock
+1,-5,out,sale,1,Regular sale
+2,20,in,purchase,2,Restock
+2,-3,out,sale,2,Customer purchase
+1,5,adjustment,adjustment,0,Stock adjustment 
